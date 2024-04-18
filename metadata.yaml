@@ -15,5 +15,5 @@
 homepage: "https://www.palbin.com.com"
 documentation: "https://github.com/afanjul/consent-mode-template-palbin"
 versions:
-  - sha: c16d1c7921902a931c177cefdbac65397bd6ffa5
+  - sha: bcb48b61c2c916079ea38a8bb5c07b2f660493d8
     changeNotes: Initial Version
